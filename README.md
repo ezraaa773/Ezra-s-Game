@@ -1,1 +1,2 @@
-<h1 style="color: red;">Ezra's Game</h1>
+# Ezra's Game
+* A simple game made using python.
