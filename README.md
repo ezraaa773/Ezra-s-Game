@@ -1,2 +1,2 @@
-# Ezra-s-Game
-A simple game made using python.
+# Ezra's Game
+* A simple game made using python.
